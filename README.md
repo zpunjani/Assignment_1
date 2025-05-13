@@ -19,3 +19,21 @@ On branch main
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean.
+
+
+## Second git status output 
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   README.md
+
+
+## Purpose of the following commands
+
+ -'mkdir' : the purpose is to create a new directory 
+ -'cd' : is used to change a directory go get all the information, different files and directories 
+ -'code' : automatically open visual code for you from git bash 
+ -'ls' : lists all the files in a specific directory 
