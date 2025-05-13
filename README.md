@@ -12,3 +12,10 @@ In this Assignment, I displayed the following according to my understanding of t
 
 ## Author
 Zalak Punjani
+
+
+## First git status output 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean.
